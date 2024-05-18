@@ -1,0 +1,6 @@
+Title;Year;Duration;Age
+https://www.imdb.com/chart/top/?ref_=nv_mv_250
+ul;ipc-metadata-list
+ipc-title__text;sc-b189961a-8 kLaxqf cli-title-metadata-item
+h3;span
+"'. ' in item.text";"len(item.text) == 4";"'h' in item.text and 'm' in item.text and (len(item.text) == 6 or len(item.text) == 5)";"'+' in item.text and len(item.text)==3"

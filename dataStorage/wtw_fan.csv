@@ -1,0 +1,6 @@
+Title;Rate
+https://www.imdb.com/what-to-watch/fan-favorites/
+div;item-enter-done
+ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title--clickable;'ipc-rating-star ipc-rating-star--baseAlt ipc-rating-star--imdb ipc-rating-star-group--imdb'
+a;span
+"len(item.text)>3";"'.' in item.text"

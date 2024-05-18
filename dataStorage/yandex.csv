@@ -1,0 +1,6 @@
+Число;месяц;Температура;Давление;Влажность;Ветер
+https://yandex.com.am/weather/ru-RU/details?lat=59.938784&lon=30.314997&lang=ru&via=ms
+div;sc-f83bbea-0 gyELnZ
+sc-77074498-1 iYUzsO;sc-77074498-3 bNsnsg;sc-ea88bf5a-0 fZDzgU;sc-ea88bf5a-0 feEFDT
+span;span;div;div
+"len(item.text)<=2";"item.text=='мая'";"'...' in item.text";"'%' not in item.text and len(item.text)==3";"'%' in item.text";"',' in item.text"
